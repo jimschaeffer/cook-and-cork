@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Cook&Cork: A Wine Pairing App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project uses the [Spoonacular API](https://spoonacular.com/food-api).
 
 ## Available Scripts
 
