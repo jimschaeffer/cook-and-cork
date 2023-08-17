@@ -1,5 +1,5 @@
 import React from "react";
-import "./WinePairing.css"; // Import the CSS file
+import "./WinePairing.css";
 
 function WinePairing({ pairedWines, pairingText, productMatches }) {
   return (
@@ -11,7 +11,7 @@ function WinePairing({ pairedWines, pairingText, productMatches }) {
         ))}
       </ul>
       <p>{pairingText}</p>
-      <hr class="dashed"></hr>
+      <hr></hr>
       <h2>Product Matches:</h2>
       <ul className="product-matches-list">
         <br></br>

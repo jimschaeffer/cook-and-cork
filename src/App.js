@@ -24,7 +24,7 @@ function App() {
       setError(null);
     } catch (error) {
       console.error("Error fetching pairings:", error);
-      setError("An error occurred. Please try again.");
+      setError("An error has occurred.");
     }
   };
 
